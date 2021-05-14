@@ -1,18 +1,18 @@
 body {
   text-align: center;
+  padding-bottom: 35px;
 }
 
-#main{
+#main {
   background-color: white;
   color: black;
   font-family: 'Kumbh Sans', sans-serif;
   padding: 10px;
   width: 100%;
-  
 }
 
-@media (max-width: 460px) { 
-  #main{
+@media (max-width: 460px) {
+  #main {
     margin: 0;
   }
 }
@@ -32,7 +32,7 @@ hr {
   margin: 10px 0px 0px 0px;
 }
 
-#img-div{
+#img-div {
   background-color: white;
   width: 100%;
 }
@@ -47,7 +47,6 @@ hr {
 #img-caption {
   color: black;
   margin: 15px 0px 5px 0px;
-
 }
 
 #tribute-info {
